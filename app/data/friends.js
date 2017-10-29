@@ -1,0 +1,136 @@
+
+//Array of friend objects
+//==============================================================================================================
+var friends = 
+[
+  {
+      "name":"Tom",
+      "photo":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MjM3NTU5M15BMl5BanBnXkFtZTcwMTMyMjAyMg@@._V1_UY1200_CR142,0,630,1200_AL_.jpg",
+      "scores":[
+         1,
+         1,
+         4,
+         5,
+         5,
+         1,
+         3,
+         5,
+         4,
+         1
+          ]
+      },
+  {
+  "name":"Jennifer",
+  "photo":"https://www.famousbirthdays.com/headshots/jennifer-lawrence-9.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Robert",
+  "photo":"https://www.biography.com/.image/t_share/MTE5NTU2MzE2MDg5NTgzMTE1/robert-pattinson-438798-1-402.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     3,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Katrina",
+  "photo":"http://media2.intoday.in/indiatoday/images/stories/katrina-story_647_051217042346.jpg",
+  "scores":[
+     3,
+     1,
+     4,
+     3,
+     2,
+     5,
+     3,
+     4,
+     2,
+     1
+      ]
+},
+{
+  "name":"Ryan",
+  "photo":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/01/10/18/Ryan-Gosling-getty.jpg",
+  "scores":[
+     5,
+     5,
+     4,
+     3,
+     1,
+     5,
+     4,
+     2,
+     3,
+     5
+      ]
+},
+{
+  "name":"Priyanka",
+  "photo":"http://akns-images.eonline.com/eol_images/Entire_Site/2017514/rs_765x1024-170614162539-765.Priyanka-Chopra-Bronzer.jl.061417.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2,
+     3,
+     3,
+     5
+      ]
+},
+{
+  "name":"Nicole",
+  "photo":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MjM5NDg4MF5BMl5BanBnXkFtZTcwNDg1OTQ4Nw@@._V1_UY1200_CR128,0,630,1200_AL_.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     1,
+     5,
+     4,
+     3,
+     5
+      ]
+},
+{
+  "name":"Ben",
+  "photo":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTI4MzIxMTk0Nl5BMl5BanBnXkFtZTcwOTU5NjA0Mg@@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+  "scores":[
+     1,
+     1,
+     4,
+     3,
+     4,
+     2,
+     3,
+     5,
+     4,
+     5
+      ]
+}
+]
+//exporting array 
+module.exports = friends;
