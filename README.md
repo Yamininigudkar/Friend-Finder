@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-To view the site and interact with other users' data, visit 
+To view the site and interact with other users' data, visit https://git.heroku.com/guarded-crag-50875.git
 
 ## npm Packages to install
 * express
