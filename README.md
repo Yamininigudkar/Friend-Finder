@@ -1,8 +1,19 @@
 # Friend Finder app using express
 
+## Overview
+This is friendfinder website.A user has to enter his name and image.User then answers a survey questionaire, Based on the answers provided by users he/ she is matched with his/her best possible match.
+
 ## Getting Started
 
 To view the site and interact with other users' data, visit https://git.heroku.com/guarded-crag-50875.git
+
+## Technology used
+### Front-end
+- HTML
+- CSS/Bootstrap
+- Javascript/Jquery
+### Backend
+- Node.js
 
 ## npm Packages to install
 * express
@@ -23,7 +34,7 @@ To view the site and interact with other users' data, visit https://git.heroku.c
         - friends.js : Array of friend objects,acts like a database
       - public
         - home.html -- Home page layout
-        - survey.html --Survet page layout and cliet side logic.
+        - survey.html --Survey page layout and client side logic.
       - routing
         - apiRoutes.js 
         - htmlRoutes.js
